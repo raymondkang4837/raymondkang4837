@@ -1,16 +1,45 @@
-### Hi there 👋
+# 👋 Hi, I'm Raymond Kang
 
-<!--
-**raymondkang4837/raymondkang4837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Applied Mathematics / Data & Vision AI  
+🔬 Numerical Optimization · SLAM · 3D Vision  
+🏆 Data Problem Solving Bank Grand Prize (2025)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Research & Interests
+- SLAM (ICP, Graph-based Optimization, Cholesky)
+- 3D Vision (NeRF, 3D Gaussian Splatting)
+- Numerical Optimization & PDE-based Modeling
+- Data-driven Risk Modeling & Forecasting
+
+---
+
+## 🧠 Core Projects
+### 🚗 Graph-based SLAM Optimization
+- Python implementation of ICP + Pose Graph Optimization
+- Cholesky-based solver, G2O format support  
+🔗 [Repo Link]
+
+### 📊 Commercial District Growth Prediction
+- Seoul open data + LightGBM
+- Custom growth index & survival modeling  
+🏆 Grand Prize  
+🔗 [Repo Link]
+
+### 🧠 YOLO Object Detection (From Scratch)
+- Full training / eval / mAP implementation
+🔗 [Repo Link]
+
+---
+
+## 🛠 Tech Stack
+**Languages**: Python, C#, SQL  
+**ML/DL**: PyTorch, LightGBM  
+**Math**: Numerical Linear Algebra, Optimization  
+**Tools**: Git, Linux, HPC, VSCode
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/raymondkang4837
+- (optional) Email / Notion / CV
